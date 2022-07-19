@@ -1,0 +1,54 @@
+{
+  "name": "iMentus collection #9",
+  "symbol": "IMT",
+  "description": "Welcome to iMentus",
+  "seller_fee_basis_points": 1000,
+  "image": "9.png",
+  "external_url": "https://www.imentus.com",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2uAcCQLus1zdRdT92CNSygBaU4F2N4e7G2PoLgYzXyL4",
+        "share": 100
+      }
+    ]
+  }
+}
